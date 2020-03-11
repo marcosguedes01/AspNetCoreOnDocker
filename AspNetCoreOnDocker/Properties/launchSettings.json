@@ -31,7 +31,9 @@
       "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/weatherforecast",
       "publishAllPorts": true,
-      "useSSL": false
+      "httpPort": 51803,
+      "useSSL": false,
+      "sslPort": 44360
     }
   }
 }
